@@ -18,7 +18,7 @@ To install on Windows, install from: https://www.python.org/ftp/python/2.7.12/py
 6. Change to the desired directory
 7. Clone Udacity VM configuration with Git from	https://github.com/udacity/fullstack-nanodegree-vm.git
 8. Move	to vagrant file
-9. Download my catalog project
+9. Download catalog project
 10. Run	Vagrant	with command `vagrant up`
 11. Login to VM	using command `vagrant ssh`
 12. Move to Project2 directory /vagrant/Project2/
